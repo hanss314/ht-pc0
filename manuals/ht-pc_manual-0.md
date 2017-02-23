@@ -48,7 +48,7 @@ First nibble of A reg: destination.
 
 **0x0C**: Jump lesser: jumps to A in ROM if C has the lesser flag.
 
-
+**0xBF to 0xFF**: Sets a register to this-0xBF.
 
 ## Adding/Removing RAM
 
