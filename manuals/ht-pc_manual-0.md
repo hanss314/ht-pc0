@@ -34,7 +34,7 @@ First nibble of A reg: destination.
 
 **0x05**: Multiply: multiplies A and B and puts the result into C.
 
-**0x06**: Divide: does C=A/B
+**0x06**: Divide: does C=A/B, stores remander in D.
 
 **0x07**: Jump: jumps to the ROM location in A.
 
@@ -47,6 +47,20 @@ First nibble of A reg: destination.
 **0x0B**: Jump greater: jumps to A in ROM if C has the greater flag.
 
 **0x0C**: Jump lesser: jumps to A in ROM if C has the lesser flag.
+
+**0x0D**: Right shift: shifts A by B to the right.
+
+**0x0E**: Left shift: shifts A by B to the left.
+
+**0x0F**: NOT A: inverts A and puts it into C.
+
+**0x10**: NOT B: inverts B and puts it into C.
+
+**0x11**: XNOR: XNORs A and B and puts it into C.
+
+**0x12**: AND: ANDs A and B and puts it into C.
+
+**0x13**: OR: ORs A and B and puts it into C.
 
 **0xBF to 0xFF**: Sets a register to this-0xBF.
 
