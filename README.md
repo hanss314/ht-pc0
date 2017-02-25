@@ -3,7 +3,7 @@ The official repository for the Huang Twins Personal Computer (HT-PC).
 
 ## License
 
-(BSD 3 clause)[LICENSE.md].
+[BSD 3 clause](LICENSE.md).
 
 ## To Do
 
