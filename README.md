@@ -1,6 +1,10 @@
 # ht-pc
 The official repository for the Huang Twins Personal Computer (HT-PC).
 
+## License
+
+BSD 3 clause.
+
 ## To Do
 
 - Add a copy A command: copies A to B (A-B command).
