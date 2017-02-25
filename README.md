@@ -7,6 +7,7 @@ The official repository for the Huang Twins Personal Computer (HT-PC).
 
 ## To Do
 
+- **Upload the actual computer.**
 - Add a copy A command: copies A to B (A-B command).
 - Add a second copy A command: copies A to H  (A-H command).
 - Add a copy B command: copies B to A (B-A).
