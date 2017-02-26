@@ -18,3 +18,9 @@ The official repository for the Huang Twins Personal Computer (HT-PC).
 - Add a copy H command: copies H to A (H-A).
 - Add a second copy H command: copies H to B (H-B).
 - Add a third copy H command: copies H to C (H-C).
+- Add a copy mover1 command: copies mov1 to A.
+- Add a second mover1 command: copies A to mov1.
+- Add a third copy mover1 command: copies mov1 to B.
+- Add a forth mover1 command: copies B to mov1.
+- Add a fifth copy mover1 command: copies mov1 to C.
+- Add a sixth mover1 command: copies C to mov1.
