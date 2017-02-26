@@ -30,3 +30,4 @@ All hardware development is slowed, the compiler is the only thing that will be 
 - Add a forth mover1 command: copies B to mov1.
 - Add a fifth copy mover1 command: copies mov1 to C.
 - Add a sixth mover1 command: copies C to mov1.
+- Add a mover2 command: copies mov2 to A.
