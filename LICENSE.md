@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2017, ender_scythe
+Copyright (c) 2017, Huang Twins and Company Computing Limited (HTCCL)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
