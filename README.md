@@ -1,5 +1,10 @@
-# ht-pc
-The official repository for the Huang Twins Personal Computer (HT-PC).
+# HT-PC 0
+
+The Huang Twins Personal Computer 0 (HT-PC 0) is an open-source computer design.
+
+## Development
+
+All hardware development is slowed, the compiler is the only thing that will be updated majorly.
 
 ## License
 
