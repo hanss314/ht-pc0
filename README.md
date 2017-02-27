@@ -24,10 +24,10 @@ All hardware development is slowed, the compiler is the only thing that will be 
 - Add a copy H command: copies H to A (H-A). - Done.
 - Add a second copy H command: copies H to B (H-B). - Done.
 - Add a third copy H command: copies H to C (H-C). - Done.
-- Add a copy mover1 command: copies mov1 to A.
-- Add a second mover1 command: copies A to mov1.
-- Add a third copy mover1 command: copies mov1 to B.
-- Add a forth mover1 command: copies B to mov1.
-- Add a fifth copy mover1 command: copies mov1 to C.
-- Add a sixth mover1 command: copies C to mov1.
-- Add a mover2 command: copies mov2 to A.
+- Add a copy mover1 command: copies mov1 to A. - Done.
+- Add a second mover1 command: copies A to mov1. - Done.
+- Add a third copy mover1 command: copies mov1 to B. - Done.
+- Add a forth mover1 command: copies B to mov1. - Done.
+- Add a fifth copy mover1 command: copies mov1 to C. - Done.
+- Add a sixth mover1 command: copies C to mov1. - Done.
+- Add a mover2 command: copies mov2 to A. - Done.
