@@ -16,6 +16,18 @@ The HT-PC 0 is quite capable for many applications.
 
 **IO**: Very basic, 1 byte in, 1 byte out.
 
+### Extended Specifications
+
+#### CPU
+
+**Bitness**: 8 bits
+
+**Registers**: 8 conventional, 2 for IO.
+
+**Instruction set**: RISC, partially CISC.
+
+
+
 ## The Instruction Set
 
 The first 8 bytes of the ROM sets the respective 8 registers.
@@ -117,6 +129,8 @@ First nibble of A reg: destination.
 **0x27**: Copy C to Mov1.
 
 **0x28**: Copy Mov2 to A.
+
+**0x29**: Use RAM for 1 command, then continue using ROM.
 
 **0xBF to 0xFF**: Sets a register to this-0xBF.
 
